@@ -1,0 +1,19 @@
+ABCDEFGHIJ1234567890
+KLMNOPQRST
+UVWXYZ1234
+567890abcd
+efghijklmn
+opqrstuvwx
+yzABCDE123
+4567890abc
+defghijklm
+nopqrstuvw
+
+
+
+Hola esto es una prueba a ver si funciona el get next line
+no estoy muy segura
+Pero veremos
+Un besito
+Cuantos cuentos cuentas por que si cuentas tantos cuentos no contaras todos los que cuentas
+
